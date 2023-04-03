@@ -106,5 +106,11 @@
             <td>22/03/23</td>
             <td align="center" ><a href="11"><img width="300px" src="11/.github/vertigo.png" /></a></td>
         </tr>
+          <tr>
+            <td>12</td>
+            <td><a href="12">Kanban</a></td>
+            <td>22/03/23</td>
+            <td align="center" ><a href="12"><img width="300px" src="11/.github/kanban.png" /></a></td>
+        </tr>
     </tbody>
 </table></p>
