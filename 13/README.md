@@ -1,4 +1,4 @@
-# Um formulário de cartão
+# Formulário de cartão
 <p>
   <img src=".github/cartao.png">
 </p>
