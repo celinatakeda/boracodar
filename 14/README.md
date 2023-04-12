@@ -1,4 +1,4 @@
 # Componente de upload
-<p>
+<p align="center">
   <img src=".github/upload.png">
 </p>
