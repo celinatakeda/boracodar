@@ -115,13 +115,13 @@
          <tr>
             <td>13</td>
             <td><a href="12">Formulário de cartão</a></td>
-            <td>29/03/23</td>
+            <td>05/04/23</td>
             <td align="center" ><a href="13"><img width="300px" src="12/.github/cartao.png" /></a></td>
         </tr>
          <tr>
             <td>14</td>
             <td><a href="14">Componente upload</a></td>
-            <td>29/03/23</td>
+            <td>12/04/23</td>
             <td align="center" ><a href="14"><img width="300px" src="12/.github/upload.png" /></a></td>
         </tr>
     </tbody>
