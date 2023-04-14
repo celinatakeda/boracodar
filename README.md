@@ -120,7 +120,7 @@
         </tr>
          <tr>
             <td>14</td>
-            <td><a href="14">Componente upload</a></td>
+            <td><a href="14">Componente de upload</a></td>
             <td>12/04/23</td>
             <td align="center" ><a href="14"><img width="300px" src="14/.github/upload.png" /></a></td>
         </tr>
