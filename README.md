@@ -128,7 +128,7 @@
             <td>15</td>
             <td><a href="14">Pricing table</a></td>
             <td>19/04/23</td>
-            <td align="center" ><a href="15"><img width="300px" src="15/.github/pricingTable.png" /></a></td>
+            <td align="center" ><a href="15"><img width="300px" src="15/.github/pricingTable1.png" /></a></td>
         </tr>
     </tbody>
 </table></p>
