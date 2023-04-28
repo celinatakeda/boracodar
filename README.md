@@ -132,7 +132,7 @@
         </tr>
         <tr>
             <td>16</td>
-            <td><a href="16">Página de contato</a></td>
+            <td><a href="16">Página de contatos</a></td>
             <td>28/04/23</td>
             <td align="center" ><a href="16"><img width="300px" src="16/.github/paginaDeContato.png" /></a></td>
         </tr>
