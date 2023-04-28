@@ -1,4 +1,4 @@
 <h1 align=center>Página de contatos</h1>
-<p>
+<p align=center>
   <img src=".github/paginaDeContato.png">
 </p>
